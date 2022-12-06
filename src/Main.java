@@ -16,7 +16,7 @@ public class Main {
 
         Car mySecondCar = new Car("Mercedes", 20000);
         // Bad practice
-        mySecondCar.name = "Porsche";
+        mySecondCar.name = "Porsche123";
         System.out.println(mySecondCar.name);
 
         // Good practice
