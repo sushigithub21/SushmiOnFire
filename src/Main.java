@@ -20,7 +20,7 @@ public class Main {
         System.out.println(mySecondCar.name);
 
         // Good practice
-        mySecondCar.setName("VW");
+        mySecondCar.setName("Golf");
         System.out.println(mySecondCar.getName());
 
         System.out.println(mySecondCar.getPriceAsDollar());
